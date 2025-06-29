@@ -1,10 +1,38 @@
-# React + Vite
+# Gemini Clone - Your AI Chat Companion
 
-Currently, two official plugins are available:
+A React-based AI chatbot interface inspired by Google Gemini, designed to offer an intelligent, conversational user experience using the Gemini API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Demo:** [react-ai-self.vercel.app](https://react-ai-self.vercel.app)
 
-## Expanding the ESLint configuration
+## Introduction
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is a personal take on replicating and extending the functionality of the Google Gemini chatbot using React and the Google Gemini API. Built with simplicity and scalability in mind and for further work improvement, this clone provides a sleek UI and smooth interaction flow.
+
+## Features
+
+### Core Features
+
+- Real-time AI Chat: Talk to the Gemini AI in a dynamic chat interface.
+- Google Gemini API Integration: Ask anything, get human-like responses.
+- Typing Indicator: Simulated typing effect for realism.
+
+### Additional Features
+
+- Clean UI with Custom CSS
+- Built on React with Vite
+- Fully Responsive Design
+
+### Planned Enhancements
+
+- Chat History & Persistent Conversations
+- Avatars & Emojis
+- Multilingual Support
+- mage/Media Message Support
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sraparna79/react-ai.git
+```
